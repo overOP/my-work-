@@ -44,11 +44,14 @@ nav a:hover{
    margin: 10px;
    border-radius: 10px;
    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-   background-color: rgba(19, 7, 148, 0.1);  
-
+   background-color: rgba(11, 175, 112, 0.1);
 }
 img{
+    display: flex;
     border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    margin-left: 300px;
 }
 
 section{
